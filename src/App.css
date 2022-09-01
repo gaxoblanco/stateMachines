@@ -1,3 +1,21 @@
+
+*{
+  border: none;
+}
+p{
+  color: white;
+}
+button{color: rgba(255, 241, 255, 0.903);}
+.button{
+  background-color: #fad419e2;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 8px;
+  color: #1f0721;
+  font-weight: bold;
+  font-size: 14px;
+  
+}
 .App {
   text-align: center;
 }

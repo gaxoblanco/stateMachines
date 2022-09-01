@@ -1,0 +1,12 @@
+.BaseLayout {
+    background-color: #fed6e3;
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a5dc34ba-d82a-4c36-b5dc-74f390caf053/dd1xp5i-2f1e1525-9ac0-4233-b5d9-79d37a4579a2.jpg/v1/fill/w_1192,h_670,q_70,strp/space_bg_by_seraphickid_dd1xp5i-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTVkYzM0YmEtZDgyYS00YzM2LWI1ZGMtNzRmMzkwY2FmMDUzXC9kZDF4cDVpLTJmMWUxNTI1LTlhYzAtNDIzMy1iNWQ5LTc5ZDM3YTQ1NzlhMi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ioqguLPcH5pP_qvUFvToC1wOraE4mA5Ie1_38FSxSH4');
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+    box-sizing: border-box;
+  }
